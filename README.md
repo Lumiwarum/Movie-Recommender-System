@@ -76,9 +76,3 @@ The structure was taken from [here](https://github.com/Lumiwarum/Movie-Recommend
 ### Suggest films:
 
 [benchmark/evaluate.py](https://github.com/Lumiwarum/Movie-Recommender-System/blob/main/benchmark/evaluate.py) - allows you to run the model for suggesting similar films to a film in the database.
-
-[Solution Building](https://www.notion.so/Solution-Building-6d2179d9f6b449c693e6195c8eadaa3f?pvs=21)
-
-[Task description](https://www.notion.so/Task-description-5e4030a0bfd24766b02870b42635373a?pvs=21)
-
-[Final Solution](https://www.notion.so/Final-Solution-ace688180ab74348851d9548f48f6622?pvs=21)
